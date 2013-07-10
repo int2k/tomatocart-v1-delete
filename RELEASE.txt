@@ -1,11 +1,11 @@
 VERSION v1.1.8.3
 -- BUG FIX
+#99 Bootstrap don't support list/grid view for specials page
+#98 Sort filters are not available for search results page of bootstrap
 #95, #90 remove piwik
          The piwik is removed and the web report is also removed. Probably we will include the google analytics API
 #86 Shipping modules do not work - UPS & USPS - cant calculate shipping
 #82 Default currency for specified language doesn't work Feature
-#79 Languages not changing in invoices/orders prints Enhancement
-    Will not fix, this is not bug. 
 #78 Specials - Add batch sub category not working Bug 1.1.8.1 Solved
 #77 Syntax (semi colons) errors Bug 1.1.8.1
 #75 Users can 'steal' other users their print orders Bug Security 1.1.8.1
